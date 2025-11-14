@@ -3,7 +3,9 @@
 ## Objective
 Show the use of three drivers: adc, gpio output and uart transmission. 
 
-There are two versions, one with the drivers in assembly language, another one with the drivers in C language.
+There are two versions: 
+P1 with the drivers in assembly language,
+P2 with the drivers in C language.
 
 ### Skills Learned
 
