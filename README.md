@@ -19,3 +19,8 @@ P2 with the drivers in C language.
 
 - Assembly
 - C
+
+### Hardware
+
+- STM32F4
+- UART to USB adapter
