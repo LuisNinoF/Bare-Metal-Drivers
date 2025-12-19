@@ -1,0 +1,5 @@
+#pragma once
+
+#define SYS_CLOCK_HZ	16000000
+#define APB1_CLOCK_HZ	SYS_CLOCK_HZ
+#define APB2_CLOCK_HZ	SYS_CLOCK_HZ
