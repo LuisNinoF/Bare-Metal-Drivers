@@ -1,11 +1,13 @@
 # Bare-Metal-Drivers
 
 ## Objective
-Show the use of three drivers: adc, gpio output and uart transmission. 
+Show the use of three drivers: adc, gpio output and uart transmission in three versions:
 
-There are two versions: 
-P1 with the drivers in assembly language,
+P1 with the drivers in assembly language.
+
 P2 with the drivers in C language.
+
+P3 with an interrupt driven UART driver in C++ using RX and TX circular buffers
 
 ### Skills Learned
 
@@ -19,6 +21,7 @@ P2 with the drivers in C language.
 
 - Assembly
 - C
+- C++
 
 ### Hardware
 
