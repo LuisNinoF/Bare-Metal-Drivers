@@ -14,6 +14,7 @@ P4 in C++ language using object-oriented programming (OOP).
 ### Skills Learned
 
 - Bare Metal Drivers
+- Embedded object-oriented programming (OOP)
 
 ### Tools Used
 
@@ -29,3 +30,4 @@ P4 in C++ language using object-oriented programming (OOP).
 
 - STM32F4
 - UART to USB adapter
+- ADXL345 Accelerometer
